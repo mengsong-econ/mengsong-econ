@@ -28,5 +28,3 @@ Alongside my doctoral studies, I am pursuing a Master’s degree in Data Science
 - **LinkedIn**: [linkedin.com/in/meng-song](https://www.linkedin.com/in/meng-song)
 
 Feel free to explore my repositories and projects. Contributions and collaborations are always welcome!
-
-![Meng Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengsong-econ&show_icons=true&theme=radical)
